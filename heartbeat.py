@@ -93,7 +93,7 @@ def calc_timescale(rr_intervals):
     time = np.cumsum([x / 1000 for x in rr_intervals])
 
     # Start at 0? time - time[0]
-    return time
+    return time - time[0]
 
 def plot_tachogram(rr_intervals):
     """ Plots tachogram of RR intervals
