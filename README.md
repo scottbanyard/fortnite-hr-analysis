@@ -4,4 +4,4 @@ Fortnite is a free game created by Epic Games that has a 100-player PvP mode. Th
 
 # Materials
 - Polar H7 Heart Rate Sensor (chest strap)
-- Bluetooth Low Energy (BLE) Python Wrapper for OS X (found [here](https://github.com/brettchien/PyBLEWrapper))
+- Bluetooth Low Energy (BLE) Python Wrapper for OS X (found [here](https://github.com/scottbanyard/polarh7-bluetooth))
